@@ -14,6 +14,19 @@ Features
 
 * * * * *
 
+Controls
+--------
+
+-   **A**: Move Left
+
+-   **D**: Move Right
+
+-   **Space Bar**: Jump
+
+-   **F**: Shoot
+
+* * * * *
+
 Installation and Setup
 ----------------------
 
