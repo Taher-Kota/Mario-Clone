@@ -1,4 +1,4 @@
-### Mario Clone (Unity Game)
+# Mario Clone (Unity Game)
 
 This project is a **Mario Clone** created in Unity, inspired by the classic Mario games. It includes all the iconic elements, such as moving creatures, smashable blocks, coins, pipes, and platforms. The level is designed to provide a nostalgic yet fun gameplay experience.
 
