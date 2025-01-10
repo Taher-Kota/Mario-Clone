@@ -4,6 +4,11 @@ This project is a **Mario Clone** created in Unity, inspired by the classic Mari
 
 * * * * *
 
+
+https://github.com/user-attachments/assets/6638c9c2-f4ec-40b7-bf45-00a527505df5
+
+![Screenshot 2025-01-10 174649](https://github.com/user-attachments/assets/cadd3a2c-02bb-4ccb-be99-0c9ee2ada49e)
+
 Features
 --------
 
