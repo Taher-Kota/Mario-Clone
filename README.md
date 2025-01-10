@@ -55,8 +55,6 @@ To run this project on your local machine:
 
     `git clone https://github.com/Taher-Kota/Mario-Clone.git`
 
-    Replace `<repository-url>` with the actual link to your project repository.
-
     Alternatively, download the ZIP file of the repository and extract it.
 
 2.  **Open the Project in Unity**
@@ -89,5 +87,3 @@ License
 -------
 
 This project is for educational and personal purposes only and is not affiliated with or endorsed by Nintendo.
-
-* * * * *
