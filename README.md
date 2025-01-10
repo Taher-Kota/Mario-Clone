@@ -53,7 +53,7 @@ To run this project on your local machine:
 
     Copy code
 
-    `git clone <repository-url>`
+    `git clone https://github.com/Taher-Kota/Mario-Clone.git`
 
     Replace `<repository-url>` with the actual link to your project repository.
 
